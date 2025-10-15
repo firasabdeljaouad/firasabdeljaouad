@@ -1,6 +1,6 @@
-## Hi there 👋 im Firas Abdeljaouad
+## Hi there 👋 
  
-A Computer Engineering Student at ESPRIT
+My name is Firas Abdeljaouad, and i'm a computer Engineering Student at ESPRIT
 <!--
 **firasabdeljaouad/firasabdeljaouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
