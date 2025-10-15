@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+-Hi Waving Hand, im Firas Abdeljaouad
+A Computer Engineering Student at ESPRIT
 <!--
 **firasabdeljaouad/firasabdeljaouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
