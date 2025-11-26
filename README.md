@@ -2,10 +2,6 @@
  
 My name is Firas Abdeljaouad, and i'm a computer Engineering Student at ESPRIT
 
-**firasabdeljaouad/firasabdeljaouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building full-stack applications
 - 🌱 I’m currently learning Improving my skills in Java, JavaScript, and Git/GitHub workflow.
 - 👯 I’m looking to collaborate on open-source projects related to web development, API integrations, or backend frameworks.
